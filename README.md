@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Portfolio — Juan Dela Cruz">
-  <title>Juan Dela Cruz · portfolio</title>
+  <title>Ejay Justo · portfolio</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700;800;900&family=Manrope:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
@@ -43,7 +43,6 @@
         </div>
       </div>
     </nav>
-
     <main>
       <!-- ═══ HERO ═══ -->
       <section id="hero" class="section section--hero">
@@ -124,9 +123,7 @@
           </div>
         </div>
       </section>
-
       <div class="glass-divider"></div>
-
       <!-- ═══ ABOUT (01) ═══ -->
       <section id="about" class="section section--glass" data-reveal>
         <div class="section__inner">
@@ -169,9 +166,7 @@
           </div>
         </div>
       </section>
-
       <div class="glass-divider"></div>
-
       <!-- ═══ EXPERIENCE (02) ═══ -->
       <section id="experience" class="section section--glass" data-reveal>
         <div class="section__inner">
@@ -218,9 +213,7 @@
           </div>
         </div>
       </section>
-
       <div class="glass-divider"></div>
-
       <!-- ═══ PROJECTS (03) ═══ -->
       <section id="projects" class="section section--glass" data-reveal>
         <div class="section__inner">
@@ -357,9 +350,7 @@
           </div>
         </div>
       </section>
-
       <div class="glass-divider"></div>
-
       <!-- ═══ SKILLS (04) ═══ -->
       <section id="skills" class="section section--glass" data-reveal>
         <div class="section__inner">
@@ -416,9 +407,7 @@
           </div>
         </div>
       </section>
-
       <div class="glass-divider"></div>
-
       <!-- ═══ CONTACT (05) ═══ -->
       <section id="contact" class="section section--glass" data-reveal>
         <div class="section__inner">
@@ -439,7 +428,6 @@
         </div>
       </section>
     </main>
-
     <footer class="footer">
       <p class="footer__text">&copy; 2026 Juan Dela Cruz · system online</p>
     </footer>
